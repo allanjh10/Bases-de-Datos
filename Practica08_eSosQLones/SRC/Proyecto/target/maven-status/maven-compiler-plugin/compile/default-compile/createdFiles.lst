@@ -1,0 +1,17 @@
+com\example\demo\DemoApplication.class
+com\example\demo\repositories\AnimalRepository.class
+com\example\demo\repositories\InsumoRepositoryImp$2.class
+com\example\demo\repositories\InsumoRepository.class
+com\example\demo\controllers\AnimalController.class
+com\example\demo\models\Animal.class
+com\example\demo\models\Insumo.class
+com\example\demo\repositories\InsumoRepositoryImp$1.class
+com\example\demo\services\AnimalBiomaServiceImp.class
+com\example\demo\controllers\InsumoBiomaController.class
+com\example\demo\services\InsumoService.class
+com\example\demo\mapper\AnimalRowMapper.class
+com\example\demo\mapper\InsumoRowMapper.class
+com\example\demo\services\AnimalService.class
+com\example\demo\repositories\AnimalRepositoryImp.class
+com\example\demo\repositories\InsumoRepositoryImp.class
+com\example\demo\services\InsumoServiceImp.class
